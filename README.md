@@ -1,4 +1,4 @@
-Just wrapped up a Sales Dashboard in Excel, and I’m convinced Excel deserves employee of the month for holding everything together.
+Just wrapped up a *Sales Dashboard in Excel*, and I’m convinced Excel deserves employee of the month for holding everything together.
 
 This dashboard uncovers all the business secrets we usually pretend we don’t know:
 • Sales by Category – because some categories clearly think they’re the main character.
